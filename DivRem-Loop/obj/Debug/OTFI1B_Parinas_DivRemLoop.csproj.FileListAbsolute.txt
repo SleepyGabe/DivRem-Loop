@@ -1,0 +1,20 @@
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.exe.config
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.pdb
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.Form1.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.Properties.Resources.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.pdb
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.exe.config
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.exe
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\bin\Debug\OTFI1B_Parinas_DivRemLoop.pdb
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csprojAssemblyReference.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.Form1.resources
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.Properties.Resources.resources
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csproj.GenerateResource.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.csproj.CoreCompileInputs.cache
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.exe
+D:\Documents\Benilde stuff\2nd term\FUNPROG\OTFI1B_Parinas_DivRemLoop\obj\Debug\OTFI1B_Parinas_DivRemLoop.pdb
